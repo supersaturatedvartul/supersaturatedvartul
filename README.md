@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hello There, Welcome to vartulnet
 
-**supersaturatedvartul/supersaturatedvartul** is a github account where I record my daily progress. Here you will find projects that are not so good but they will help me a lot for making bigger projects.
+Here, you will find multiple projects and tutorials. Make sure to follow.
