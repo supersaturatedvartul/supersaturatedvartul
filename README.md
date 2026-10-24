@@ -41,9 +41,6 @@
 ###
 
 <h4 data-importer="text" align="center">Tools</h4>
-
-###
-
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
