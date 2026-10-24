@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="center">Backend Developer from Future</p>
+<h3 data-importer="text" align="center">Backend Developer from Future</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">Tech Stack</h3>
+<h4 data-importer="text" align="center">Tech Stack</h4>
 
 ###
 
